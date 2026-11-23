@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Nicked111
-- 👀 I’m interested in a little bit of everything
-- 🌱 I’m currently learning C++, Java and Python
+<h1>👋 Hi, I’m @TheNicked </h1>
+Currently I'm involved as:<br> 
+- Senior DevOps Engineer @ Capgemini<br> 
+- Operations Engineer @ CoreWeave<br> 
+- DevOps Engineer @ NordicFuzzCon<br> 
+
+<h2>Currently improving on:</h2>
+Kubernetes
+Python, GoLang and C#
 
 <!---
 Nicked111/Nicked111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
