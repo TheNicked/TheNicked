@@ -5,7 +5,7 @@ Currently I'm involved as:<br>
 - DevOps Engineer @ NordicFuzzCon<br> 
 
 <h2>Currently improving on:</h2>
-Kubernetes
+Kubernetes<br> 
 Python, GoLang and C#
 
 <!---
